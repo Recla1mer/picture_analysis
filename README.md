@@ -1,4 +1,4 @@
-# Programm to evaluate diffusion length from EBIC images
+# Program to evaluate diffusion length from EBIC images
 If you happend to study physics (for master's degree) at the Martin Luther University you might stumble upon an experiment requiring you to take a couple of EBIC images at different voltages to show the dependency of diffusion length and voltage. 
 To evaluate the diffusion length of one image takes a lot of time if you are doing it manually.
 That's why we developed this program.
