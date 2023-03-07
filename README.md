@@ -7,7 +7,7 @@ Take as many images as you want, the program will handle what's left.
 Do not worry. You don't need to be good at python to operate this program as we implemented a user interface.
 Download "picture_analysis" (folder must include pa.py, pa_plot.py and pa_interface.py) and store an additional folder inside containing the images. 
 Afterwards run pa_interface.py. The program will tell you the next steps and explain all its components in english. 
-If you are more comfortable with german look at the sixt chapter ("Automatisierung") of the file: "Protokoll.pdf". 
+If you are more comfortable with german look at the sixt chapter ("Automatisierung") of the file: "Protokoll_EBIC.pdf". 
 There you will be fully introduced and guided through the program. Hope it works, fingers crossed :D
 
 Example of required folder structure:
