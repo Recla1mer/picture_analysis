@@ -1,6 +1,14 @@
-# MLU (university in germany) - Master physics - experiment M07 (REM/EBIC)
-Program that helps to compute the diffusion length of many images taken with ebic.
-Download "picture_analysis" (folder must include pa.py, pa_plot.py and pa_interface.py) and store an additional folder inside containing the images. Afterwards run pa_interface.py. The program will tell you the next steps. Hope it works :D
+# Programm to evaluate diffusion length from EBIC images
+If you happend to study physics (for master's degree) at the Martin Luther University you might stumble upon an experiment requiring you to take a couple of EBIC images at different voltages to show the dependency of diffusion length and voltage. 
+To evaluate the diffusion length of one image takes a lot of time if you are doing it manually.
+That's why we developed this program.
+Take as many images as you want, the program will handle what's left.
+
+Do not worry. You don't need to be good at python to operate this program as we implemented a user interface.
+Download "picture_analysis" (folder must include pa.py, pa_plot.py and pa_interface.py) and store an additional folder inside containing the images. 
+Afterwards run pa_interface.py. The program will tell you the next steps and explain all its components in english. 
+If you are more comfortable with german look at the sixt chapter ("Automatisierung") of the file: "Protokoll.pdf". 
+There you will be fully introduced and guided through the program. Hope it works, fingers crossed :D
 
 Example of required folder structure:
 - picture_analysis (folder)
